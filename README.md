@@ -342,3 +342,7 @@ Your feedback and your ideas are important -- please [submit an issue](https://g
 
 Contributions are welcome.  Contributors will be invited to a
 dedicated Telegram group and are held to the [Polkadot communities' Code of Conduct](https://github.com/paritytech/polkadot/blob/master/CODE_OF_CONDUCT.md).
+
+
+### Gcloud docs:   
+https://cloud.google.com/docs/authentication/getting-started   
